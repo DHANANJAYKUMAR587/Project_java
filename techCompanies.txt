@@ -1,0 +1,34 @@
+Q. Write the names of 15 big tech companies that use Java and mention what they use Java for.
+Answer:
+
+Java is one of the most widely used programming languages in the tech industry. Many big companies use Java for building large-scale applications, backend services, cloud systems, and Android development. Below are 15 major tech companies that use Java and the type of work they use it for:
+
+1.Google – Uses Java for Android development, backend services, APIs, and large enterprise systems.
+
+2.Amazon (AWS) – Uses Java for cloud services, backend processing, internal tools, and high-performance applications.
+
+3.Microsoft – Uses Java in Azure cloud, Minecraft development, and enterprise integrations.
+
+4.Meta (Facebook) – Uses Java for backend server management, data processing, and scalable distributed systems.
+
+5.Netflix – Uses Java and Spring Boot for building microservices and scalable streaming backend systems.
+
+6.Uber – Uses Java for real-time ride matching, backend trip management, and scalable microservices.
+
+7.Airbnb – Uses Java for backend API services, search systems, and data pipelines.
+
+8.LinkedIn – Uses Java for backend systems, messaging services, and large-scale data processing.
+
+9.Twitter – Uses Java for backend microservices, timeline ranking systems, and real-time data processing.
+
+10.Pinterest – Uses Java for backend recommendation engines and distributed systems.
+
+11.Spotify – Uses Java for backend services, music recommendation systems, and data analytics.
+
+12.PayPal – Uses Java for secure payment processing, transaction systems, and fraud detection tools.
+
+13.eBay – Uses Java for search functionality, listings management, and backend services.
+
+14.Oracle – Uses Java across almost all enterprise products, databases, and cloud services.
+
+15.IBM – Uses Java for enterprise applications, cloud computing services, and AI-based solutions.
