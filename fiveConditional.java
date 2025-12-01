@@ -5,7 +5,7 @@ public class fiveConditional {
             System.out.println("Vowel");
         }
         else{
-            System.out.println("Consonent");
+            System.out.println("Consonant");
         }
     }
 }
